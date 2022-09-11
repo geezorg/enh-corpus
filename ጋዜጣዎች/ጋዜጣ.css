@@ -1,0 +1,18 @@
+a:link {text-decoration: none}
+a:visited {text-decoration: none}
+a:active {text-decoration: none}
+a:hover {text-decoration: underline overline; color: red;}
+@media screen {  /* hide from IE3 */
+  a[href]:hover { background: #ffa }
+}
+body {
+  max-width: 600px;
+  background-color: ivory;
+}
+.align-center { text-align: center; }
+.align-left { text-align: left; }
+.align-right { text-align: right; }
+.align-justify { text-align: justify; }
+.underline { text-decoration: underline; }
+.bold { font-weight: bold; }
+.italic { font-style: italic; }
