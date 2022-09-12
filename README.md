@@ -16,7 +16,7 @@ The value of the growing current news corpus to the diaspora was immediately evi
 
 ENH articles were both manually retyped from weekly newspapers and converted from files provided directly by the news agencies (noteably Tobia, Fiameta, Addis Admas and InterSport). Tobia would develop a significant archive under a parallel website, Tobia.EthiopiaOnline.Net , the contents of the site are also included here.
 
-Content is in the XHTML format in UTF-8 encoding.  Internal links within the archive are not expected to work.  Conversion of the content to modern and consistent HTML and CSS representation, fixing internal links, and other minor cleanup from conversion issues, are goals of a version 1.0 release of the archive.
+Content is in the XHTML format in UTF-8 encoding.  Internal links within the archive are not expected to work.  Conversion of the content to a modern and consistent HTML and CSS representation, fixing internal links, and other minor cleanup from conversion issues, are goals of a version 1.0 release of the archive.
 
 ## SERA Source Files
 ENH articles were composed with Multilingual Emacs (aka [MULE](https://en.wikipedia.org/wiki/MULE)) using the Ethiopic package and stored in the SERA transliteration with HTML markup. As an ASCII based encoding, SERA provided a means of character encoding that was safe for all operating systems, storage systems, and interchange protocols of the 1990s (and prior) while waiting for Unicode to support Ethiopic script (in the year 2000).
