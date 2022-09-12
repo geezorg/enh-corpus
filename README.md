@@ -1,4 +1,5 @@
 <img src="images/ENHTOP.gif"/>
+
 # The Ethiopian News Headlines Corpus Collection
 
 This repository houses the corpus of the Ethiopian News Headlines (ENH) service that ran from late Hamle 1989 - Yekatit 1997. The ENH was published initially under the ENH.EthiopiaOnline.Net website, then later under both EthioZena.Net and News.Com.Et .  The service came to an end in the midst of the chaotic 1997 Ethiopian election period when agents of the government begun an investigation of the service operations.  While publishing stopped, out of concern for the safety of the staff, corpus development continued up until Tahsas 2002.
