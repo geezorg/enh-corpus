@@ -6,7 +6,7 @@ This repository houses the corpus of the Ethiopian News Headlines (ENH) service 
 
 The ENH effort reached a total volume of **13,079** articles from **126** newspapers. In 1998 (GC) it was responsible for no less than 95% of the first 1 million words of Amharic appearing online.
 
-The full corpus collection can be downloaded under the ["Releases"](https://github.com/geezorg/enh-corpus/releases/) link of this repository. 
+The full corpus collection can be downloaded under the [“Releases”](https://github.com/geezorg/enh-corpus/releases/) link of this repository. 
 
 
 ## Terse Background
