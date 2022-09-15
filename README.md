@@ -2,7 +2,7 @@
 
 # The Ethiopian News Headlines Corpus Collection
 
-This repository houses the corpus of the Ethiopian News Headlines (ENH) service that ran from late Hamle 1989 - Yekatit 1997. The ENH was published initially under the ENH.EthiopiaOnline.Net website, then later under both EthioZena.Net and News.Com.Et .  The service came to an end in the midst of the chaotic 1997 Ethiopian election period when agents of the government begun an investigation of the service operations.  While online publishing stopped, out of concern for the safety of the staff, offline corpus development continued up until Tahsas 2002.
+This repository houses the corpus of the Ethiopian News Headlines (ENH) service that ran from late Hamle 1989 - Yekatit 1997. The ENH was published initially under the ENH.EthiopiaOnline.Net website, then later under both EthioZena.Net and News.Com.Et .  The service came to an end in the midst of the chaotic 1997 Ethiopian election period when agents of the government begun an investigation of the service operations.  While online publishing stopped, out of concern for the safety of the staff, offline corpus development continued up until Tahsas 2002. After this time focus shifted to developing a [book based corpus](https://github.com/geezorg/ebooks/).
 
 The ENH effort reached a total volume of **13,079** articles from **126** newspapers. In 1998 (GC) it was responsible for no less than 95% of the first 1 million words of Amharic appearing online.
 
